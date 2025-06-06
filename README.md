@@ -20,12 +20,6 @@ Welcome to my certification portfolio! This repository includes visual proof of 
 - **Issued By**: TATA (via Forage)
 - **Skills Covered**: Business storytelling, insight-driven visualization
 
-## 🔗 How to Use this Repo
-
-- 📁 Clone or download to browse certificate images
-- 📑 View the `README.md` for certificate descriptions
-- 📜 Use this as a portfolio showcase for academic or job applications
-
 ## 📬 Contact
 
 - Email: rv1249367@gmail.com
